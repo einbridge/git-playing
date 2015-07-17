@@ -1,5 +1,3 @@
-this is for playing around to show checkout and diff.
+this is for playing around to show checkout and other diff uses
 
 blalh balh
-
-I'll show how diff can look across versions in history.
